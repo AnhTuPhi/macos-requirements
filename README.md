@@ -8,6 +8,7 @@ Run the following command in your terminal:
 
 ## Homebrew Command / FAQ
 [Homebrew Formulae](https://formulae.brew.sh/)
+
 [FAQ](https://docs.brew.sh/FAQ)
 
 First update all package definitions (formulae) and Homebrew itself:
