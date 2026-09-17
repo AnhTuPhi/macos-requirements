@@ -87,4 +87,10 @@ Rồi chạy lệnh sau
 sudo ln -sfn "$(brew --prefix)/opt/docker-compose/bin/docker-compose" /usr/local/lib/docker/cli-plugins/docker-compose
 
 Sau đó sẽ run được lệnh: docker compose
+
+Riêng MacOS cần cài thêm colima để run docker
+
+brew install colima
+colima start
+
 ```
