@@ -80,4 +80,11 @@ brew install vim
 brew install docker
 
 brew install docker-compose
+
+Vào /usr/local/lib/docker/cli-plugins tạo folder.
+Rồi chạy lệnh sau
+
+sudo ln -sfn "$(brew --prefix)/opt/docker-compose/bin/docker-compose" /usr/local/lib/docker/cli-plugins/docker-compose
+
+Sau đó sẽ run được lệnh: docker compose
 ```
