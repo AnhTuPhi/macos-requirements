@@ -74,3 +74,10 @@ brew install apt
 ```bash
 brew install vim
 ```
+
+### Install Vim editor
+```bash
+brew install docker
+
+brew install docker-compose
+```
